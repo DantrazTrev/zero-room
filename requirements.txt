@@ -1,0 +1,10 @@
+# Axiom Distinction Protocol (ADP) Requirements
+# 
+# This protocol is implemented using only Python standard library
+# No external dependencies are required - authentication emerges from logic alone
+#
+# Python version requirement:
+# python>=3.8
+
+# The protocol intentionally avoids external cryptographic libraries
+# to demonstrate that authentication can emerge from pure logical principles

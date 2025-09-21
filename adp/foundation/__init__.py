@@ -1,0 +1,1 @@
+"""Foundation layer components for ADP."""

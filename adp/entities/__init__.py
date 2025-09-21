@@ -1,0 +1,1 @@
+"""Entity management components for ADP."""
